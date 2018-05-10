@@ -796,6 +796,6 @@ more media queries
 	max-height: 500px;
 }
 
-a {
+a, a:link, a:visited {
 	color: white !important; 
 }
