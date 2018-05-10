@@ -782,3 +782,18 @@ more media queries
 		font-size: 70px;
 	}
 }
+
+#spaceRemover {
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+
+.mechanic {
+	width: auto;
+	height: auto;
+	max-width: 500px;
+	max-height: 500px;
+}
+
+
