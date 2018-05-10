@@ -796,4 +796,6 @@ more media queries
 	max-height: 500px;
 }
 
-
+a {
+	color: white !important; 
+}
