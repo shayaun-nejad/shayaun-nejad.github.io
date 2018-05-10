@@ -798,4 +798,6 @@ more media queries
 
 a, a:link, a:visited {
 	color: rgb(255, 255, 255) !important; 
+	text-decoration: none !important;
+	background-color: rgb(255, 255, 255, .99) !important;
 }
